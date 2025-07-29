@@ -15,7 +15,7 @@ This project explores global suicide trends using Python, pandas, and data visua
 
 ## 📦 Dataset
 
-- **Source**: [WHO Suicide Statistics (Kaggle)](https://www.kaggle.com/datasets/szamil/who-suicide-statistics)
+- **Source**: [Suicide Rates Overview 1985 to 2016 (Kaggle)](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016)
 - **Rows**: 27,820
 - **Columns**: 12
 - **Years Covered**: 1985 to 2016
